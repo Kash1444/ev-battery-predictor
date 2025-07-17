@@ -5,7 +5,9 @@
 A comprehensive machine learning solution for **EV battery aging prediction** and **range optimization** using digital twin technology and real-world data analytics.
 
 ![](https://github.com/Kash1444/ev-battery-predictor/blob/54d5e846e12cc5e1b855f0c3f265a23e0f574a01/Screenshot%20(33).png)
-![]()
+
+
+![](https://github.com/Kash1444/ev-battery-predictor/blob/c32a9df7a8ea25d92b3a861c82d97830c5fbb469/Screenshot%20(34).png)
 
 ## 🎯 Project Overview
 
