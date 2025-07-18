@@ -4,6 +4,14 @@
 
 A comprehensive machine learning solution for **EV battery aging prediction** and **range optimization** using digital twin technology and real-world data analytics.
 
+### ->Real EV Data Integration - 124K+ vehicle CSV data is analyzed
+### ->Best Algorithm Selection -Automatically chooses the highest performing model
+### ->Optimized Predictions - Shows only the best algorithm results
+### ->Executive Dashboard - Complete business intelligence with KPIs
+
+
+Professional Visualizations - 12 comprehensive charts and graphs
+
 ![](https://github.com/Kash1444/ev-battery-predictor/blob/54d5e846e12cc5e1b855f0c3f265a23e0f574a01/Screenshot%20(33).png)
 
 
